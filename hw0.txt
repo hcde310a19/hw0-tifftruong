@@ -1,3 +1,14 @@
 # Description of your program (part 7)
+To count the total number of words in a document, first you'll need a Scanner to process the document as file.
+Initiate variable for a counter for each word.
+Go through each line and increase the counter for each word you encounter.
+After going through every line, print the results of the counter to get the number of total words.
 
 # Reflection on writing your program (part 8)
+The exercise was a good refresher and a little difficult just because it has been a while since I've coded.
+I've only taken CSE 142, CSE 143 and INFO 201. In terms of writing an English description of the code, it was quite
+satisfying because it reminded me of psuedo-coding.
+
+Lastly, from this course I hope to gain a better understanding with HCDE and coding.
+I hope to familiarize myself with the skills needed in the human-centered career world.
+Also build my confidence is my coding skills as well.
